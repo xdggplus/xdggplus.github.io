@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daliy</title>
+    <link>https://xdggplus.github.io/</link>
+    <description>Recent content on Daliy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xdggplus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hugo</title>
+      <link>https://xdggplus.github.io/post/2019/03/hugo/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xdggplus.github.io/post/2019/03/hugo/</guid>
+      <description>###这是一篇hugo 网站 第一次建站</description>
+    </item>
+    
+    <item>
+      <title>关于我</title>
+      <link>https://xdggplus.github.io/about/about/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xdggplus.github.io/about/about/</guid>
+      <description>我是谁</description>
+    </item>
+    
+  </channel>
+</rss>
