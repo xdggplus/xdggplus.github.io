@@ -10,8 +10,7 @@
         <tags>
           <tag>文章开篇</tag>
         </tags>
-        <content type="html"> ###这是一篇hugo 网站
-第一次建站
+        <content type="html">  这是一篇hugo 网站 第一次建站
 </content>
     </entry>
     
