@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>小米R3G安装openwrt</title><url>https://xdggplus.github.io/post/2023/08/%E5%B0%8F%E7%B1%B3r3g%E5%AE%89%E8%A3%85openwrt/</url><categories><category>openwrt</category></categories><tags><tag>openwrt</tag></tags><content type="html"> 准备工作 拼多多买一个R3G路由器 U盘 网线 刷入Breed 防止变砖,breed 下载
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>英语学习-时态/语态</title><url>https://xdggplus.github.io/post/2023/09/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0-%E6%97%B6%E6%80%81/%E8%AF%AD%E6%80%81/</url><categories><category>learn</category></categories><tags><tag>learn</tag><tag>english</tag></tags><content type="html"> 时态 语态 句子成分 主语 动作实施者 代词 I/he/she/we/it
+谓语 谓语是句子的灵魂，主要用来“陈述主语的状态”或者“表明主语发出的动作”。 - 简单谓语：由一个动词或者一个动词短语构成谓语； - 复合谓语 * 情态动词/助动词&#43;动词构成 * 系动词&#43;表语构成 * 情态动词&#43;系动词： 情态动词:can/cloud/will/would/shall/should/may
+宾语 含义：宾语与主语相对，表示动作的承受者。名词、代词、数词以及句子都可以做宾语（宾语从句）。
+定语 “定语”顾名思义就是为了限定句中某个的成分。形容词、数词、代词、从句（定语从句）等成分基本都可以做定语（动词除外）。定语在所修饰的词前，就被称为前置定语；反之，则为后置定语。
+表语 表语存在于英语中的“主系表结构”中，主要用来解释说明主语的性质、状态、特性等。 同样，做表语的可以是名词、形容词、副词介词短语、不定式等或者由整个从句充当表语（即表语从句）。
+状语 英语中，状语传递的信息包括：时间、地点、原因、目的、结果、方式、程度等，其使用的目的就是使表达更为丰满、具体。 英语中的副词、不定式、介词、名词、从句等都可以做状语。 那么如何判定哪些成分是“状语”呢？关键就看这个词/词组/从句是否在修饰动词or形容词or副词or整个句子。
+补语 补语，意在补充说明主语or宾语，分别称为“主语补足语”及“宾语补足语”，而后者使用更为频繁。
+参考 时态 句子成分</content></entry><entry><title>over wall</title><url>https://xdggplus.github.io/post/2023/09/over-wall/</url><categories><category>wall</category></categories><tags><tag>wall</tag></tags><content type="html"> 项目 https://github.com/v2fly/fhs-install-v2ray/tree/master https://www.v2fly.org/guide/command.html#v2ctl-cert</content></entry><entry><title>小米R3G安装openwrt</title><url>https://xdggplus.github.io/post/2023/08/%E5%B0%8F%E7%B1%B3r3g%E5%AE%89%E8%A3%85openwrt/</url><categories><category>openwrt</category></categories><tags><tag>openwrt</tag></tags><content type="html"> 准备工作 拼多多买一个R3G路由器 U盘 网线 刷入Breed 防止变砖,breed 下载
 复制到U盘，然后复位键闪烁重启，电脑网线连接路由器，设置网卡IP：192.168.1.1
 浏览器打开控制台：
 刷入OpenWrt 下载固件：固件选择
